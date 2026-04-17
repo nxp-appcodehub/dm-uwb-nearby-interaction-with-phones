@@ -18,7 +18,7 @@ Our demonstration showcases how our accessory uses <strong>Nearby Interaction</s
 
 - [SR250-ARD Development Board](https://www.nxp.com/SR250UWBSHIELD)
 - [FRDM-RW612 Development Board](https://www.nxp.com/FRDM-RW612)  
-  ⚠️ Requires a small rework because SPI is not exposed on the Arduino headers. See rework instruction [here](./FRDM-RW612_rework_for_SPI.md).
+  ⚠️ Requires a small rework because SPI is not exposed on the Arduino headers. See rework instruction [here](https://github.com/nxp-appcodehub/an-sr250-uwb-plug-and-play-demo/blob/main/FRDM-RW612_rework_for_SPI.md).
 - Windows PC
 - Two USB-C cables (power + communication)
 
